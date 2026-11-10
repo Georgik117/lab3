@@ -1,0 +1,19 @@
+# Скомпилированные файлы
+out/
+*.class
+
+# Сгенерированная документация Javadoc (пересоздаётся командой / из IDE)
+docs/
+
+# IntelliJ IDEA (личные настройки не нужны в репозитории)
+.idea/workspace.xml
+.idea/shelf/
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/httpRequests/
+*.iws
+
+# Системные файлы
+.DS_Store
+Thumbs.db

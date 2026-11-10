@@ -1,0 +1,8 @@
+# Файлы, игнорируемые по умолчанию
+/shelf/
+/workspace.xml
+# Редактор-based HTTP клиент
+/httpRequests/
+# Файлы, зависимые от среды
+/dataSources/
+/dataSources.local.xml
